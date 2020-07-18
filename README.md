@@ -33,3 +33,5 @@ No DB
 
 [pylint-django](https://pypi.org/project/pylint-django/)  
 [autopep8](https://pypi.org/project/autopep8/)
+
+[Link to PR](https://github.com/LeoKuhorev/django_intro/pull/2)
